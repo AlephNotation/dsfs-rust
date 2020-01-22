@@ -1,7 +1,7 @@
 #![allow(dead_code)]
 
 //extern crate rustplotlib;
-//num = "*"
+extern crate num;
 
 mod linear_algebra;
 

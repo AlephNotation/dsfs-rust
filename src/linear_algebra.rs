@@ -1,4 +1,4 @@
-use std::num::{Float, Num};
+num::{Float, Num};
 
 //let height_weight_age = [70, 170, 40 ];  // years
 
